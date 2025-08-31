@@ -5,6 +5,10 @@ It allows HR teams or managers to efficiently manage, update, and retrieve emplo
 
 This system demonstrates the power of **Excel Macros, VBA Forms, and Event Handling** to create a dynamic and user-friendly application inside Microsoft Excel.
 
+## 📸 Screenshot
+
+![Employee Entry Form](Employee%20Entry.png)
+
 
 ## 🚀 Features
 - Add, update, and delete employee records dynamically.
